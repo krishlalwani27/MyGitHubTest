@@ -1,5 +1,5 @@
 # MyGitHubTest
-This is a tes
+This is a test repo
 ## Para
 Lets see how git works.
 
